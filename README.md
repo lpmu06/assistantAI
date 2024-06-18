@@ -1,3 +1,3 @@
 # assistantAI
-AI data assistant wit Streamlit, LangChain and OpenAI
+AI data assistant with Streamlit, LangChain and OpenAI
 # assistantAI

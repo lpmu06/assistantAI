@@ -58,6 +58,8 @@ if st.session_state.clicked[1]:
 with st.sidebar:    
     with st.expander('EDA steps'):
         st.write(llm.invoke("What are the steps of EDA summed up in 6 steps?"))
+
+st.write('video at 23:33')
  
 
 

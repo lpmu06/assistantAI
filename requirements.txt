@@ -1,7 +1,17 @@
 matplotlib==3.8.0\
 numpy==1.26.1\
-openai==0.28.1\
 pandas==2.1.1\
 python-dotenv==1.0.0\
 seaborn==0.13.0\
 streamlit==1.27.2
+
+
+openai                    1.35.0                   pypi_0    pypi
+langchain                 0.2.5              pyhd8ed1ab_0    conda-forge
+langchain-community       0.2.5              pyhd8ed1ab_0    conda-forge
+langchain-core            0.2.9              pyhd8ed1ab_0    conda-forge
+langchain-experimental    0.0.61             pyhd8ed1ab_0    conda-forge
+langchain-openai          0.1.8                    pypi_0    pypi
+langchain-text-splitters  0.2.1              pyhd8ed1ab_0    conda-forge
+langsmith                 0.1.80             pyhd8ed1ab_0    conda-forge
+
